@@ -22,7 +22,7 @@ This project:
 - Evaluates accuracy on unseen data  
 - Provides a **Build vs Buy recommendation**  
 
-Final model accuracy: **73.22%**
+Final model accuracy: **76.97%**
 
 ---
 
@@ -40,7 +40,7 @@ Your model **outperformed** the Detectocorp commercial baseline.
 
 ## 📝 Recommendation: Build, Don’t Buy
 
-Because the custom-built PyTorch model achieved **73.22%**, it clearly exceeds Detectocorp's claimed **70%** accuracy.  
+Because the custom-built PyTorch model achieved **76.97%**, it clearly exceeds Detectocorp's claimed **70%** accuracy.  
 
 This demonstrates that an in-house solution:
 
